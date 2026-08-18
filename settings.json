@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "whole.falixsrv.me",
-    "port":,
+    "port":29483,
     "version": "",
     "try-creative": false
   },
